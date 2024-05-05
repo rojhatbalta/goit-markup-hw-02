@@ -5,7 +5,7 @@ body {
 }
 
 .nav-logo {
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 
 .logo-link {
@@ -55,6 +55,6 @@ body {
   color: #404bbf;
 }
 
-.header-link address {
+.adress-link {
   font-style: normal;
 }
