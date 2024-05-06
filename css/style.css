@@ -46,18 +46,6 @@ body {
   color: #404bbf;
 }
 
-.footer-link {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.footer-link:hover,
-.footer-link:focus {
-  color: #404bbf;
-}
-
 .adress-link {
   font-style: normal;
 }
@@ -157,4 +145,31 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-link {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+}
+
+.footer-link span {
+  color: #f4f4fd;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+  color: #404bbf;
+}
+
+.footer-paragraph {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
